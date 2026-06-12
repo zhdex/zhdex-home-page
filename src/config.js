@@ -80,12 +80,12 @@ const config = {
 			{ "title": "海洋女孩", "preview": "/img/wallpaper/static/海洋女孩/image-pre.webp", "url": "/img/wallpaper/static/海洋女孩/image.png" },
 			{ "title": "书房夜晚", "preview": "/img/wallpaper/static/书房夜晚/image-pre.webp", "url": "/img/wallpaper/static/书房夜晚/image.png" },
 			{ "title": "安逸舒适", "preview": "/img/wallpaper/static/安逸舒适/image-pre.webp", "url": "/img/wallpaper/static/安逸舒适/image-.png" },
-			{ "title": "暗夜绿发", "preview": "/img/wallpaper/static/暗夜绿发/image.png", "url": "/img/wallpaper/static/暗夜绿发/image.png" },
-			{ "title": "金克斯", "preview": "/img/wallpaper/static/金克斯/image.png", "url": "/img/wallpaper/static/金克斯/image.png" },
-			{ "title": "悟空", "preview": "/img/wallpaper/static/悟空/image.png", "url": "/img/wallpaper/static/悟空/image.png" },
-			{ "title": "光影插画", "preview": "/img/wallpaper/static/光影插画/image.png", "url": "/img/wallpaper/static/光影插画/image.png" },
-			{ "title": "少女绿感", "preview": "/img/wallpaper/static/少女绿感/image.png", "url": "/img/wallpaper/static/少女绿感/image.png" },
-			{ "title": "游泳猫", "preview": "/img/wallpaper/static/游泳猫/image.png", "url": "/img/wallpaper/static/游泳猫/image.png" },
+			{ "title": "暗夜绿发", "preview": "/img/wallpaper/static/暗夜绿发/image-pre.webp", "url": "/img/wallpaper/static/暗夜绿发/image.png" },
+			{ "title": "金克斯", "preview": "/img/wallpaper/static/金克斯/image-pre.webp", "url": "/img/wallpaper/static/金克斯/image.png" },
+			{ "title": "悟空", "preview": "/img/wallpaper/static/悟空/image-pre.webp", "url": "/img/wallpaper/static/悟空/image.png" },
+			{ "title": "光影插画", "preview": "/img/wallpaper/static/光影插画/image-pre.webp", "url": "/img/wallpaper/static/光影插画/image.png" },
+			{ "title": "少女绿感", "preview": "/img/wallpaper/static/少女绿感/image-pre.webp", "url": "/img/wallpaper/static/少女绿感/image.png" },
+			{ "title": "游泳猫", "preview": "/img/wallpaper/static/游泳猫/image-pre.webp", "url": "/img/wallpaper/static/游泳猫/image.png" },
 		],
 		picMobile: [
 			{ "title": "0001", "preview": "/img/wallpaper/static-mobile/0001/image-pre.webp", "url": "/img/wallpaper/static-mobile/0001/image.png" },
@@ -158,10 +158,10 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🔬 前往", img: "/img/wallpaper/static/少女绿感/image.png", title: "科研学术", subtitle: "论文 · 研究方法 · 学术工具", text: "论文、研究方法、学术工具、文献管理", url: "#", show: false },
-		{ go: "🌐 前往", img: "/img/wallpaper/static/光影插画/image.png", title: "网站项目", subtitle: "Web开发 · 前端/后端 · 部署运维", text: "Web开发、前端/后端技术、项目架构、部署运维", url: "#", show: false },
-		{ go: "🤖 前往", img: "/img/wallpaper/static/悟空/image.png", title: "Agent基础", subtitle: "AI Agent · 框架 · 自动化工作流", text: "AI Agent原理、框架、工具链、提示工程、自动化工作流", url: "#", show: false },
-		{ go: "💾 前往", img: "/img/wallpaper/static/金克斯/image.png", title: "技能备份", subtitle: "Hermes技能 · 开发经验 · 最佳实践", text: "Hermes技能、开发经验、配置记录、最佳实践", url: "#", show: false },
+		{ go: "🔬 前往", img: "/img/wallpaper/static/少女绿感/image-pre.webp", title: "科研学术", subtitle: "论文 · 研究方法 · 学术工具", text: "论文、研究方法、学术工具、文献管理", url: "#", show: false },
+		{ go: "🌐 前往", img: "/img/wallpaper/static/光影插画/image-pre.webp", title: "网站项目", subtitle: "Web开发 · 前端/后端 · 部署运维", text: "Web开发、前端/后端技术、项目架构、部署运维", url: "#", show: false },
+		{ go: "🤖 前往", img: "/img/wallpaper/static/悟空/image-pre.webp", title: "Agent基础", subtitle: "AI Agent · 框架 · 自动化工作流", text: "AI Agent原理、框架、工具链、提示工程、自动化工作流", url: "#", show: false },
+		{ go: "💾 前往", img: "/img/wallpaper/static/金克斯/image-pre.webp", title: "技能备份", subtitle: "Hermes技能 · 开发经验 · 最佳实践", text: "Hermes技能、开发经验、配置记录、最佳实践", url: "#", show: false },
 	],
 
 	statement: ["Copyright © 2025 景行"],
